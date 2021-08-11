@@ -1,0 +1,221 @@
+ack
+Acknowledgment
+
+afaik
+As Far As I Know
+
+afair
+As Far As I Remember
+
+aka
+Also Know As
+
+asap
+As Soon As Possible
+
+bff
+Best Friends Forever
+
+bm&y
+Between Me And You
+
+brb
+Be Right Back
+
+brt
+Be Right There
+
+b/c
+Because
+
+btt
+Back To Topic
+
+btw
+By The Way
+
+c&p
+Copy And Paste
+
+cu
+See You
+
+cus
+See You Soon
+
+cyt
+See You Tomorrow
+
+cys
+Check Your Settings
+
+diy
+Do It Yourself
+
+dgmw
+Don't Get Me Wrong
+
+eobd
+End Of Bussiness Day
+
+eod
+End Of Discussion
+
+eom
+End Of Message
+
+em?
+Excuse Me?
+
+faq
+Frequently Asked Questions
+
+fack
+Fully Acknowledge
+
+fka
+Formerly Known As
+
+fwiw
+For What It's Worth
+
+fyi
+For Your Information
+
+f2f
+Face To Face
+
+fc
+Fingers Crossed
+
+gr8
+Great
+
+hf
+Have Fun
+
+hth
+Hope This Helps
+
+idk
+I Don't Know
+
+idc
+I Don't Care
+
+imo
+In My Opinion
+
+iirc
+If I Remember Correctly
+
+iow
+In Other Words
+
+irl
+In Real Life
+
+jk
+Just Kidding
+
+jc
+Just Checking
+
+lol
+Laughing Out Loud
+
+l8r
+Later
+
+mmw
+Mark My Words
+
+n/a
+Not Available
+
+noyb
+None Of Your Business
+
+nc
+No Comment
+
+np
+No Problem
+
+nvm
+Never Mind
+
+omg
+Oh My God
+
+otoh
+On The Other Hand
+
+omw
+On My Way
+
+oic
+Oh I See
+
+otl
+Out To Lunch
+
+otp
+One Time Password
+
+pov
+Point Of View
+
+qt
+Cutie
+
+rn
+Right Now
+
+ru
+Are You
+
+tba
+To Be Announced
+
+tbc
+To Be Continued / To Be Confirmed
+
+tia
+Thanks In Advance
+
+tq
+Thank You
+
+tyt
+Take Your Time
+
+ttyl
+Talk To You Later
+
+tmi
+Too Much Information
+
+ur
+Your / You Are
+
+wfm
+Work For Me
+
+wrt
+With Regaurd To
+
+wfh
+Work From Home
+
+w8
+Wait
+
+wb
+Welcome Back
+
+wycm
+Will You Call Me
+
+ymmd
+You Made My Day
